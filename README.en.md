@@ -4,6 +4,10 @@
 
 An IPTV app for Samsung Orsay Smart TVs. Three tabs contain snapshots of M3U playlists supplied at build time.
 
+![SushaIPTV home screen](docs/screenshots/home.png)
+
+Browser capture.
+
 ## Install
 
 You need an Orsay TV with Apps Sync, a computer with Python 3.9+ and three M3U files. The TV needs internet for streams after installation. Rebuild and sync to update the playlists.
