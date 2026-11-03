@@ -1,0 +1,14 @@
+.DS_Store
+*.log
+__pycache__/
+*.pyc
+
+# Local credentials, playlist snapshots and packaged widgets
+.env
+.env.*
+*.m3u
+*.m3u8
+*.zip
+
+# Host-specific legacy unit may still be used by an existing installation
+/deploy/sushatv-playlists.service
